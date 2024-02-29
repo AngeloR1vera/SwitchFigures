@@ -26,3 +26,4 @@ switch (opcion) {
         break;
 
 }
+/* código para encontrar áreas de figuras */
